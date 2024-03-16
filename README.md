@@ -1,7 +1,11 @@
 Car Purchase Amount Predictions Model
+
+
 As a car salesman, you aim to develop a model to predict the total dollar amount that customers are willing to pay for a car. This predictive model will utilize various attributes of customers to make accurate predictions. Below are the details of the model:
 
 Attributes
+
+
 The model will consider the following attributes of the customers:
 
 Customer Name: The name of the customer.
@@ -13,10 +17,14 @@ Annual Salary: The annual salary of the customer.
 Credit Card Debt: The amount of credit card debt the customer has.
 Net Worth: The net worth of the customer.
 Target Variable
+
+
 The target variable to be predicted by the model is:
 
 Car Purchase Amount: The total dollar amount that customers are willing to pay for a car.
 Model Development
+
+
 To develop this predictive model, you will follow these steps:
 
 Data Collection: Gather data on customers including their attributes and corresponding car purchase amounts.
@@ -32,6 +40,8 @@ Model Evaluation: Evaluate the trained model's performance using appropriate reg
 Model Deployment: Deploy the trained model to make predictions for new customer data.
 
 Usage
+
+
 To use the model for predicting car purchase amounts, follow these steps:
 
 Provide the necessary customer attributes including name, email, country, gender, age, annual salary, credit card debt, and net worth.
